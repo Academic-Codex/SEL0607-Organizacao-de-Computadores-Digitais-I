@@ -1,0 +1,12 @@
+REPO_TAGLINE: Computer architecture • processors • memory hierarchy
+ASSETS_DIR: .github/readme
+CTA_TEXT: Access the full course website
+THEME: peace
+SITE_URL: https://academic-codex.github.io/SEL0607-Organizacao-De-Computadores
+
+BG_1: "#020617"
+BG_2: "#111827"
+TEXT_MAIN: "#E5E7EB"
+TEXT_MUTED: "#9CA3AF"
+ACCENT: "#60A5FA"
+CARD_RADIUS: "14"
